@@ -1,0 +1,11 @@
+binance
+pandas
+numpy
+ta
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+tqdm
+ccxt
+cryptography
